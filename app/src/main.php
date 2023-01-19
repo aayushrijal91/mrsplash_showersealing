@@ -279,21 +279,25 @@
 <section class="bg-primary text-center text-white fs-24 fw-700 pt-5 pb-6 d-none d-md-block">
     <div class="container">
         <div class="row gy-4">
-            <div class="col-6 col-lg-3">
-                <?= renderImg('roofing.png', 'lib') ?>
-                <div>Plumbing & Metal Roofing</div>
+            <div class="col-6 col-lg">
+                <?= renderImg('shower-bath-sealing.png', 'lib') ?>
+                <div>Shower & Bath Sealing</div>
             </div>
-            <div class="col-6 col-lg-3">
-                <?= renderImg('reroofing.png', 'lib') ?>
-                <div>Reroofing</div>
+            <div class="col-6 col-lg">
+                <?= renderImg('grout-repairs.png', 'lib') ?>
+                <div>Grout Repairs</div>
             </div>
-            <div class="col-6 col-lg-3">
-                <?= renderImg('restoration.png', 'lib') ?>
-                <div>Cleaning & Restoration</div>
+            <div class="col-6 col-lg">
+                <?= renderImg('leaking-balcony.png', 'lib') ?>
+                <div>Leaking Balcony</div>
             </div>
-            <div class="col-6 col-lg-3">
-                <?= renderImg('roof-repairs.png', 'lib') ?>
-                <div>Roof Repairs</div>
+            <div class="col-6 col-lg">
+                <?= renderImg('leaking-showers.png', 'lib') ?>
+                <div>Leaking Showers</div>
+            </div>
+            <div class="col-6 col-lg">
+                <?= renderImg('waterproofing.png', 'lib') ?>
+                <div>Waterproofing</div>
             </div>
         </div>
     </div>
@@ -347,6 +351,22 @@
                 <div class="map-description">
                     <div class="fs-72 fw-700 lh-1 pb-3">Mr Splash Sealing Sydney:</div>
                     <div class="fs-18 lh-1_67 text-secondary pt-4">We can renovate and expand on any waterproofing or sealing job. Our team will walk you through the project and what your imagination of your new project will look like. Advice and guidance is the most valuable asset when it comes to going through any type of waterproofing or sealing job in Sydney and we are a company that understands this. So if you’re in the market and looking for the best Shower Sealing company then let us demonstrate our process.</div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container mt-n6 d-none d-lg-block">
+        <div class="row justify-content-center">
+            <div class="col-lg-4 col-xl-3">
+                <div class="bg-tertiary text-white text-center py-4">
+                    <div class="fs-24 fw-700 lh-1">Minor Shower Renovations</div>
+                    <div class="fs-18 fw-700 d-flex justify-content-center gap-1 lh-1">From <span class="fs-48 fw-800">$6,000*</span></div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-xl-3">
+                <div class="bg-dark text-white text-center py-4">
+                    <div class="fs-24 fw-700 lh-1">Shower Sealing</div>
+                    <div class="fs-18 fw-700 d-flex justify-content-center gap-1 lh-1">From <span class="fs-48 fw-800">$1,500*</span></div>
                 </div>
             </div>
         </div>
@@ -496,7 +516,6 @@
                 </div>
             </div>
         </div>
-
         <div class="text-center fs-18 lh-1_67 text-grey pt-6 d-none d-md-block"><span class="text-white fw-500">SEALING & WATERPROOFING THAT LASTS A LIFETIME</span>, you are more than likely Renovating your home right now because of simply POOR workmanship your home would be discoloured, experiencing cracks, visible mould elements inside the home due to leakage, a bad smell, black spots in the ceiling. This is the result of poor choices and not using a company like Mr Splash Plumbing & Shower Sealing your licenced local Plumbing Company</div>
     </div>
 </section>
@@ -799,7 +818,7 @@
         <div class="container">
             <div class="row gy-3">
                 <div class="col-12">
-                    <div class="text-white text-center fw-700 fm-1 lh-1">Book a Roof Service today!</div>
+                    <div class="text-white text-center fw-700 fm-1 lh-1">Book a Sealing Service today!</div>
                     <div class="text-white text-center fs-18 fw-300 py-3">Call us on <?= $phone_number ?> or book online & receive $50 OFF!</div>
                 </div>
                 <div class="col-12">
