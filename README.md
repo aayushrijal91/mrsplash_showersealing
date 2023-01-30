@@ -1,4 +1,4 @@
-# Landing page [Mr Splash Shower Sealing](www.aiims.com.au)
+# Landing page [Mr Splash Shower Sealing](https://mrsplashshowersealing.com.au/)
 
 This is a landing page boilerplate that uses PHP scripting language
 
